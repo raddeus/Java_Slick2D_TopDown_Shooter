@@ -1,0 +1,2 @@
+Say you are at mapCell(1,1) you would load 
+mapCells around them.
